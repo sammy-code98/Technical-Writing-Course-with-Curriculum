@@ -487,6 +487,10 @@ Write a short introduction about technical writing based on these resources and 
 
 **[Top Developer Marketing Agencies](https://dev.to/engroso/top-developer-marketing-agencies-1kcg)**
 
+**[If Your Developer Marketing Isn’t Working, Read This](https://hackmamba.io/blog/2025/03/developer-marketing-deep-dive/)**
+
+**[Developer marketing doesn't exist... without DevX](https://hackmamba.io/blog/2024/11/developer-marketing-without-developer-experience/)**
+
 </details>
 
 ## Job Opportunities 👨‍💼
