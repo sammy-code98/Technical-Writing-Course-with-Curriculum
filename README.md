@@ -491,6 +491,11 @@ Write a short introduction about technical writing based on these resources and 
 
 **[Developer marketing doesn't exist... without DevX](https://hackmamba.io/blog/2024/11/developer-marketing-without-developer-experience/)**
 
+### Developer Experience
+
+**Explore strategies to effectively market technical products and services, bridging the gap between developers and their audience.**
+
+**[What is Developer Experience?](https://jellyfish.co/library/developer-experience/)**
 **[ How to make an impact as a developer advocate](https://dev.to/blackgirlbytes/how-to-make-an-impact-as-a-developer-advocate-1jge)**
 
 **[Measuring Success in DevRel](https://www.leaddevrel.com/p/measuring-success-in-devrel?utm_campaign=post&utm_medium=web)**
