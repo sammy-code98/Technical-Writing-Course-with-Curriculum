@@ -494,7 +494,9 @@ Write a short introduction about technical writing based on these resources and 
 ### Developer Experience
 
 **Explore strategies to effectively market technical products and services, bridging the gap between developers and their audience.**
-
+<details>
+<summary>Resources</summary>
+<br>
 **[What is Developer Experience?](https://jellyfish.co/library/developer-experience/)**
 **[ How to make an impact as a developer advocate](https://dev.to/blackgirlbytes/how-to-make-an-impact-as-a-developer-advocate-1jge)**
 
