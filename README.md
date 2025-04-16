@@ -491,6 +491,18 @@ Write a short introduction about technical writing based on these resources and 
 
 **[Developer marketing doesn't exist... without DevX](https://hackmamba.io/blog/2024/11/developer-marketing-without-developer-experience/)**
 
+**[ How to make an impact as a developer advocate](https://dev.to/blackgirlbytes/how-to-make-an-impact-as-a-developer-advocate-1jge)**
+
+**[Measuring Success in DevRel](https://www.leaddevrel.com/p/measuring-success-in-devrel?utm_campaign=post&utm_medium=web)**
+
+**[Fostering Authentic Developer Community Engagement: Insights from DevRel Champions](https://www.advocu.com/post/fostering-developer-community-engagement-devrel-advocu)**
+
+**[Defining a career path for Developer Relations](https://slack.engineering/defining-a-career-path-for-developer-relations/)**
+
+**[Finding the Right Leaders to Run your Community with Carrie Melissa Jones](https://blog.honeycommb.com/2019/05/21/finding-the-right-leaders-to-run-your-community-with-carrie-melissa-jones/)**
+
+**[Developer marketing is DevRel: How to build a culture where everyone is a community advocate](https://www.developermarketing.io/developer-marketing-is-devrel-how-to-build-a-culture-where-everyone-is-a-community-advocate/)**
+
 </details>
 
 ## Job Opportunities 👨‍💼
